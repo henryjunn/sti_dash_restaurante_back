@@ -1,5 +1,5 @@
-# Sem Tempo, Irmão - Frontend
-Parte da Aplicação Frontend do projeto da disciplina PCS3853 - Laboratório de Engenharia de Software II.
+# Sem Tempo, Irmão - Backend
+Parte da Aplicação Backend do projeto da disciplina PCS3853 - Laboratório de Engenharia de Software II.
 
 ## Autor
 Henry Jun Nishimura
